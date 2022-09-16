@@ -1,0 +1,3 @@
+fullBoilerplate: contract TestBoilerplateFull 0xa1c01fd33a4fdd700f34f1bf5426dd3555ec3cdd
+baseBoilerplate: contract TestBoilerplateBase 0x63bcdf6a8aed2ee9eb9fa99c739a00fe549318b3
+contractFactory: contract BoilerplateFactory 0xb87b3eca1ae5639c2f61b0d47f62f837a38ded9e

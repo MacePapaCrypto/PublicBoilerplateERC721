@@ -1,0 +1,11 @@
+[default]
+src = 'contracts'
+out = 'artifacts'
+remappings = [
+    '@ensdomains/=node_modules/@ensdomains/',
+    '@openzeppelin/=node_modules/@openzeppelin/',
+    '@uniswap/=node_modules/@uniswap/',
+    'hardhat/=node_modules/hardhat/',
+]
+
+# See more config options https://github.com/foundry-rs/foundry/tree/master/config

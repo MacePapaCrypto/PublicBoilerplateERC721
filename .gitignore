@@ -1,0 +1,13 @@
+node_modules
+.env
+.env.example
+coverage
+coverage.json
+typechain
+extras
+jsonOutput
+
+#Hardhat files
+cache
+artifacts
+hardhat.config.js
